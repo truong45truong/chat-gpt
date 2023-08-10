@@ -1,0 +1,9 @@
+- model: master.TranslateTypesMaster
+  pk: 1
+  fields:
+    name: Vietnamese
+- model: master.TranslateTypesMaster
+  pk: 2
+  fields:
+    name: English
+
